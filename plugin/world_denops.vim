@@ -1,1 +1,1 @@
-command! WorldDenops call denops#plugin#request('world_denops', 'hello', [])
+command! WorldDenops call denops#request('world_denops', 'hello', [])
